@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/WorkProject/Vulkan/vcpkg_installed/vcpkg/blds/vulkan/x64-windows-rel/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
