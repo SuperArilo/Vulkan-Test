@@ -1,5 +1,0 @@
-set(DETECTED_Vulkan_FOUND "TRUE")
-set(DETECTED_Vulkan_VERSION "1.4.341")
-set(DETECTED_Vulkan_INCLUDE_DIRS "C:/WorkProject/Vulkan/vcpkg_installed/x64-windows/include")
-set(DETECTED_Vulkan_LIBRARIES "C:/WorkProject/Vulkan/vcpkg_installed/x64-windows/debug/lib/vulkan-1.lib")
-set(DETECTED_ANDROID_NATIVE_API_LEVEL "")

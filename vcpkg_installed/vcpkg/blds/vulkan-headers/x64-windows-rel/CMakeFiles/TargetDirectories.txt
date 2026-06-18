@@ -1,5 +1,0 @@
-C:/WorkProject/Vulkan/vcpkg_installed/vcpkg/blds/vulkan-headers/x64-windows-rel/CMakeFiles/edit_cache.dir
-C:/WorkProject/Vulkan/vcpkg_installed/vcpkg/blds/vulkan-headers/x64-windows-rel/CMakeFiles/rebuild_cache.dir
-C:/WorkProject/Vulkan/vcpkg_installed/vcpkg/blds/vulkan-headers/x64-windows-rel/CMakeFiles/list_install_components.dir
-C:/WorkProject/Vulkan/vcpkg_installed/vcpkg/blds/vulkan-headers/x64-windows-rel/CMakeFiles/install.dir
-C:/WorkProject/Vulkan/vcpkg_installed/vcpkg/blds/vulkan-headers/x64-windows-rel/CMakeFiles/install/local.dir

@@ -1,6 +1,0 @@
-C:/WorkProject/Vulkan/vcpkg_installed/vcpkg/pkgs/vulkan-loader_x64-windows/debug/lib/vulkan-1.lib
-C:/WorkProject/Vulkan/vcpkg_installed/vcpkg/pkgs/vulkan-loader_x64-windows/debug/bin/vulkan-1.dll
-C:/WorkProject/Vulkan/vcpkg_installed/vcpkg/pkgs/vulkan-loader_x64-windows/debug/lib/cmake/VulkanLoader/VulkanLoaderConfig.cmake
-C:/WorkProject/Vulkan/vcpkg_installed/vcpkg/pkgs/vulkan-loader_x64-windows/debug/lib/cmake/VulkanLoader/VulkanLoaderConfig-debug.cmake
-C:/WorkProject/Vulkan/vcpkg_installed/vcpkg/pkgs/vulkan-loader_x64-windows/debug/lib/cmake/VulkanLoader/VulkanLoaderConfigVersion.cmake
-C:/WorkProject/Vulkan/vcpkg_installed/vcpkg/pkgs/vulkan-loader_x64-windows/debug/lib/pkgconfig/vulkan.pc
